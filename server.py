@@ -48,7 +48,7 @@ def get_image(item):
         pass
     return image
 
-
+  
 def truncate(message, length):
   if len(message) > length:
     message = '{}...'.format(message[:length])

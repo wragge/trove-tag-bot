@@ -1,4 +1,3 @@
-
 # Trove Tag Bot
 
 Create a Twitter bot that tweets [Trove](https://trove.nla.gov.au/) items with a particular tag. For example, [@TrovePoetryBot](https://twitter.com/TrovePoetryBot) tweets newspaper articles tagged with 'poem'.
@@ -63,8 +62,8 @@ Ok, that's all the boring set up stuff done. Now comes the fun part -- let's mak
 
 The process is simple, you just:
 
-* Make your own copy of this app
-* Add your own configuration values to the `.env` file
+* Make your own copy of this app 
+* Add your own configuration values to the `.env` file 
 
 #### Copy this app
 
@@ -170,3 +169,4 @@ For some suggestions on how you can modify the code of this bot to customise its
 ## Do you want more?
 
 If you find this useful or interesting you might like to [support me on Patreon](https://www.patreon.com/timsherratt). The more supporters I get, the more time I can spend on making things like this!
+
